@@ -20,6 +20,19 @@
 	<link rel="stylesheet" href="https://cwd.online.lincoln.ac.uk/3.0/css/cwd.1.0.css"> 
 	<link rel="stylesheet" href="https://cwd.online.lincoln.ac.uk/3.0/css/ui.css"> 
 	<script src="https://cwd.online.lincoln.ac.uk/3.0/js/modernizr.js"></script> 
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4119626-50']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+	</script>
 	
 	<style> 
 	#cwd_header { background: url('http://lncn.eu/application/views/toolkit/toolkit.jpg') center; }
