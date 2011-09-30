@@ -6,7 +6,7 @@
 		
 	<p>Linking You was a project at the University of Lincoln funded by the JISC under the 2011 <a href="http://www.jisc.ac.uk/whatwedo/programmes/inf11.aspx">Infrastructure for Education and Research Programme</a>. Its aim was to look at and make recommendations for improving the way that identifiers for .ac.uk domains are planned and managed in higher education institutions.</p>
 	
-	<p>The Linking You Toolkit <sup>Beta</sup> is a collection of the outcomes of this project, and is intended as a starting point for institutions looking to better understand and manage their use of identifiers on their .ac.uk website.</p>	
+	<p>The Linking You Toolkit is a collection of the outcomes of this project, and is intended as a starting point for institutions looking to better understand and manage their use of identifiers on their .ac.uk website.</p>	
 
 	<h2>What does this Toolkit look at?</h2>
 		
