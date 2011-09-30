@@ -69,7 +69,7 @@
 			<hgroup class="grid_12" id="cwd_hgroup"> 
 						
 				<a href="/">
-					<h1>Linking You Toolkit</h1>
+					<h1>Linking You Toolkit <sup>Beta</sup></h1>
 				</a> 
 							
 			</hgroup> 
