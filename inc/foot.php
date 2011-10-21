@@ -15,7 +15,12 @@
 					<a href="http://lincoln.ac.uk/home/legal/index.htm" target="_blank">Policy statements</a> 
 				</small> 
 			</p> 
-		</section> 
+    <p class="align-right"> 
+				<small> 
+					<a href="mailto:jwinn@lincoln.ac.uk">Contact</a> the Linking You project. 
+				</small> 
+			</p> 
+</section> 
 			
 	</footer> 
  
