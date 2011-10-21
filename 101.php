@@ -105,13 +105,13 @@
 			<h3><a href="#hashbang">Hashbangs are bad, pushState is good</a></h3>
 			<div id="hashbang">
 			
-				<p>A number of websites, including Twitter and Gawker Media (Lifehacker, Gizmodo, etc) have recently re-architected their websites to make use of hashbang URIs &mdash; e.g. https://twitter.com/!#/unilincoln. <a href="http://code.google.com/web/ajaxcrawling/docs/getting-started.html">The hashbang was recommended by Google</a> as a way for search engines to crawl AJAX powered websites.</p>
+				<p>A number of websites, including Twitter and Gawker Media (Lifehacker, Gizmodo, etc) have recently re-architected their websites to make use of hashbang URIs &mdash; e.g. https://twitter.com/#!/unilincoln. <a href="http://code.google.com/web/ajaxcrawling/docs/getting-started.html">The hashbang was recommended by Google</a> as a way for search engines to crawl AJAX powered websites.</p>
 				
 				<p>There are a number of problems with hashbangs:</p>
 				
 				<ul>
 					<li>In order to decide which content to render based on a hashbang URI, a hashbang enabled website relies on a user having a modern JavaScript enabled web browser.</li>
-					<li>Hashbangs are invisible to the server, so if someone visits <span class="cleanuri">http://example.ac.uk/!#/badurl</span> (which triggers a 404), the error will not appear in your server logs.</li>
+					<li>Hashbangs are invisible to the server, so if someone visits <span class="cleanuri">http://example.ac.uk/#!/badurl</span> (which triggers a 404), the error will not appear in your server logs.</li>
 					<li>Hashbangs are forever, so if you go hashbang you can't go back. You can control the links on your website, however you can't control other people's links to your website. If people start linking to your hashbanged URIs then you're going to have to support the parsing of hashbangs even if you implement "fixed" URIs again.</li>
 				</ul>
 				
