@@ -197,7 +197,7 @@ ServerAlias www.institution.ac.uk</pre>
 		
 		<h3>Unlock Data's Potential</h3>
 		
-		<p>To help unlock the potential of all your institution's data we <em>strongly recommend</em> that wherever possible you include machine readable alternatives. These should be located at the same resource name as the 'normal' resource, but suffixed with a machine readable format name. For example, <span class="uri">/courses</span> could (and indeed should) be expressed as <a href="http://www.w3.org/XML/">XML</a> at <span class="uri">/courses.xml</span>, <a href="http://www.json.org/">JSON</a> at <span class="uri">/courses.json</span> and <a href="http://www.xcri.org/">XCRI</a> at <span class="uri">/courses.xcri</span>.</p>
+		<p>To help unlock the potential of all your institution's data we <em>strongly recommend</em> that wherever possible you include machine readable alternatives. These should be located at the same resource name as the 'normal' resource, but suffixed with a machine readable format name. For example, <span class="uri">/courses</span> could (and indeed should) be expressed as <a href="http://www.w3.org/XML/">XML</a> at <span class="uri">/courses.xml</span>, <a href="http://www.json.org/">JSON</a> at <span class="uri">/courses.json</span> and <a href="http://www.xcri.org/">XCRI</a> at <span class="uri">/courses.xml</span>.</p>
 	
 	</div>
 	
